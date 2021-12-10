@@ -1,0 +1,91 @@
+{
+  "uuid": "18e97429a9418e26ea7822683fa1e42f",
+  "path": "Offline/Breadboard%20potentiometer%20adapter",
+  "name": "Breadboard potentiometer adapter",
+  "content": "",
+  "created_at": "2021-12-11 01:25:53",
+  "updated_at": "2021-12-11 02:23:08",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ec956da28a58801a0c4cf9461d1d5eb3",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "12eb591825f744f9976563840cef6c33": 1,
+        "a68dc5e6a9944c46b7604648a43dcd65": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          2,
+          "HDR-M-2.54_1X3",
+          "J1,J2",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "ALPS",
+          1,
+          "RES-ADJ-TH_RK1631110TT3",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C370977",
+            "BOM_Manufacturer": "ALPS Electric",
+            "BOM_Manufacturer Part": "RK1631110TT3",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "251ab341190145969f961b591d9bc869",
+            "uuid": "12eb591825f744f9976563840cef6c33"
+          }
+        ]
+      ],
+      "updateTime": 1639149788,
+      "createTime": 1639146355,
+      "histories": [],
+      "created_at": "2021-12-11 01:25:55",
+      "updated_at": "2021-12-11 02:23:08"
+    },
+    {
+      "uuid": "5f52621fc903215b7134a1df4a5fd342",
+      "puuid": "18e97429a9418e26ea7822683fa1e42f",
+      "title": "PCB_Breadboard potentiometer adapter",
+      "filename": "PCB_Breadboard potentiometer adapter.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "251ab341190145969f961b591d9bc869": 1,
+        "9f77654394344f25b3de138e0fe05ff6": 2
+      },
+      "BOM": [],
+      "updateTime": 1639149653,
+      "createTime": 1639147651,
+      "histories": [],
+      "created_at": "2021-12-11 01:47:31",
+      "updated_at": "2021-12-11 02:20:53"
+    }
+  ],
+  "sort": [],
+  "title": "Breadboard potentiometer adapter",
+  "foldername": "Breadboard potentiometer adapter",
+  "schfilename": "Breadboard potentiometer adapter.json",
+  "schfilemtime": 1639149788159
+}
