@@ -1,7 +1,10 @@
 Breadboard potentiometer adapter
 ================================
 
-.....
+TODO: Add description
+
+![Photo of assembled board sitting in a breadboard](photo-1.jpg)
+![Photo of assembled board sitting in a breadboard](photo-2.jpg)
 
 Licence
 -------
