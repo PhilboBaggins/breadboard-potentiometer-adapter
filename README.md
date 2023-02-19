@@ -3,6 +3,8 @@ Breadboard potentiometer adapter
 
 TODO: Add description
 
+See also: https://github.com/PhilboBaggins/breadboard-potentiometer-adapter
+
 ![Photo of assembled board sitting in a breadboard](photo-1.jpg)
 ![Photo of assembled board sitting in a breadboard](photo-2.jpg)
 
