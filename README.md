@@ -1,10 +1,11 @@
 Breadboard potentiometer adapter
 ================================
 
-TODO: Add description
+A tiny little board to make it easier to plug a potentiometer into a breadboard.
 
 ![Photo of assembled board sitting in a breadboard](photo-1.jpg)
 ![Photo of assembled board sitting in a breadboard](photo-2.jpg)
+![Schematic](Exports-v1.0/Schematic.png)
 
 Licence
 -------
