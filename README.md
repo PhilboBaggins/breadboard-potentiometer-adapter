@@ -3,7 +3,7 @@ Breadboard potentiometer adapter
 
 A tiny little board to make it easier to plug a potentiometer into a breadboard.
 
-See also: https://github.com/PhilboBaggins/breadboard-potentiometer-adapter-with-power
+See also: <https://github.com/PhilboBaggins/breadboard-potentiometer-adapter-with-power>
 
 ![Photo of assembled board sitting in a breadboard](photo-1.jpg)
 ![Photo of assembled board sitting in a breadboard](photo-2.jpg)
